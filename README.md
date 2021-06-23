@@ -34,4 +34,4 @@
 [instagram]: https://www.instagram.com/sarp_derin_arici
 
 ### Ekstralar:
-[![Derin Sarp Arıcı'nın Github Statları!](https://github-readme-stats.vercel.app/api?username=derinsarparici)](https://derinsarparici.tk)
+[![Derin Sarp Arıcı'nın Github Statları!](https://github-readme-stats.vercel.app/api?username=sylchasiee)](https://derinsarparici.tk)
